@@ -1,0 +1,13 @@
+{
+    "name": "phptycoon/elasticsearch",
+    "description": "Elastic search tool",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Phptycoon\\Elk\\": "src/"
+        }
+    },
+    "version": "1.0",
+    "require": {}
+}
